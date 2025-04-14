@@ -1,10 +1,8 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
 
-About This Course:
+About This oject:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
